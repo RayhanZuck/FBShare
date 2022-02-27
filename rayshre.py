@@ -16,6 +16,7 @@ else:
 try:
 	import requests
 except:
+        os.system('git pull')
 	os.system('git pull && pip install pystyle && pip install requests')
 	import requests
 token_live=[]
