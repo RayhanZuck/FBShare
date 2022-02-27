@@ -8,4 +8,4 @@ while True :
   else:
     break
 os.system('git pull')
-os.system('python rayshre.py')
+os.system('python rayshre.so')
