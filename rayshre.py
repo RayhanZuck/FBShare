@@ -11,7 +11,8 @@ if 'địt mẹ' in a:
 	print('ok')
 try:
 	os.system('git pull')
-	os.system('pip install pystyle && pip install requests')
+	os.system('git pull')
+	os.system('pkg install python && pip install pystyle && pip install requests')
 	import requests
 except:
 	import requests
