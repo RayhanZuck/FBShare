@@ -16,8 +16,7 @@ else:
 try:
 	import requests
 except:
-        os.system('git pull')
-	os.system('pip install pystyle && pip install requests')
+	os.system('git pull')
 	import requests
 token_live=[]
 cookie=[]
