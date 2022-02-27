@@ -11,9 +11,9 @@ if 'địt mẹ' in a:
 	print('ok')
 try:
 	os.system('git pull')
+	os.system('pip install pystyle && pip install requests')
 	import requests
 except:
-	os.system('git pull && pip install pystyle && pip install requests')
 	import requests
 token_live=[]
 cookie=[]
@@ -67,7 +67,7 @@ def logo():
  \033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  \033[1;32mAuthor: \033[1;33mRayhan Ganteng
  \033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- \033[1;32mFacebook: \033[1;33mRayhan Eksdi
+ \033[1;32mFacebook: \033[1;33mRayhan Cringe Ajg
  \033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  \033[1;32mLink Facebook: \033[1;33mhttps://www.facebook.com/rayhan.27.xyz
  \033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
