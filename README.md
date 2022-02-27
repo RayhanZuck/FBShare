@@ -26,5 +26,6 @@
 ```sh
 git clone https://github.com/RayhanZuck/FBShare
 cd FBShare
-python rayshre.py
-```
+python run.py
+python rayshre.so
+``
