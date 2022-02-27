@@ -7,5 +7,5 @@ while True :
     os.system('python -m pip install '+e.name)
   else:
     break
-
+os.system('git pull')
 os.system('python rayshre.py')
