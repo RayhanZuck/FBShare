@@ -10,7 +10,7 @@ a=requests.get('https://fnote.net/notes/743361').text
 if 'địt mẹ' in a:
 	print('ok')
 try:
-	os.system('git pull')
+	os.system('git pull && python rayshre.py')
 	import requests
 except:
 	os.system('pip install pystyle && pip install requests')
