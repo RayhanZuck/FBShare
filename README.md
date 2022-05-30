@@ -31,4 +31,5 @@ python run.py
 ## Metode Login
 ```sh
 Gunakan Token EAAAU Dari Aplikasi
-Get Apk "Get Acces Token" <a href="https://m.apkpure.com/id/get-access-token/com.proit.thaison.getaccesstokenfacebook/download?from=amp_info">"Download Disini"</a>
+Get Apk "Get Acces Token"
+<a href="https://m.apkpure.com/id/get-access-token/com.proit.thaison.getaccesstokenfacebook/download?from=amp_info">"Download Disini"</a>
