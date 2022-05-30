@@ -34,4 +34,4 @@ Gunakan Token EAAAU Dari Aplikasi
 "Get Acces Token" Boleh Juga
 Menggunakan Token Lain Jika Bisa
 ```
-<a href="https://m.apkpure.com/id/get-access-token/com.proit.thaison.getaccesstokenfacebook/download?from=amp_info">👍Download Disini Apknya👈</a>
+<strong><a href="https://m.apkpure.com/id/get-access-token/com.proit.thaison.getaccesstokenfacebook/download?from=amp_info">👍Download Disini Apknya👈</a>
