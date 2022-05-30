@@ -30,6 +30,8 @@ python run.py
 ```
 ## Metode Login
 ```sh
-Gunakan Token EAAAU Dari Aplikasi Get Apk "Get Acces Token"
+Gunakan Token EAAAU Dari Aplikasi
+Get Apk "Get Acces Token" Boleh
+Gunakan Token Lain Jika Bisa
 ```
 <a href="https://m.apkpure.com/id/get-access-token/com.proit.thaison.getaccesstokenfacebook/download?from=amp_info">👍Download Disini Apknya👈</a>
