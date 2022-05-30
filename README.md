@@ -33,4 +33,4 @@ python run.py
 Gunakan Token EAAAU Dari Aplikasi
 Get Apk "Get Acces Token"
 ```
-<a href="https://m.apkpure.com/id/get-access-token/com.proit.thaison.getaccesstokenfacebook/download?from=amp_info">"Download Disini"</a>
+<a href="https://m.apkpure.com/id/get-access-token/com.proit.thaison.getaccesstokenfacebook/download?from=amp_info">👍Download Disini Apknya👈"</a>
