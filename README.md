@@ -35,7 +35,9 @@ python run.py
 Gunakan Token EAAAU Dari Aplikasi
 "Get Acces Token" Boleh Juga
 Menggunakan Token Lain Jika Bisa
-"Jika Token Tidak Muncul Mungkin
+```
+```sh
+Jika Token Tidak Muncul Mungkin
 Salah Sandi, Salah Email Atau,
 Akun Terkena Checkpoint
 ```
