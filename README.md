@@ -32,16 +32,15 @@ cd FBShare
 python run.py
 ```
 ## Metode Login
-<img src="Screenshot_2022-05-30-08-08-21-841_com.proit.thaison.getaccesstokenfacebook-picsay.png" />
+```sh
+Login Menggunakan Cookies
 
-```sh
-Gunakan Token EAAAU Dari Aplikasi
-"Get Acces Token" Boleh Juga
-Menggunakan Token Lain Jika Bisa
+Rekomendasi Browser:
+Kiwi Browser
+Via Browser
+
+Ekstensi Untuk Kiwi Browser
+Cookiedough
+
+Via Browser Bisa Ambil Cookie Tanpa Ekstensi!
 ```
-```sh
-Jika Token Tidak Muncul Mungkin
-Salah Sandi, Salah Email Atau,
-Akun Terkena Checkpoint
-```
-<strong><a href="https://m.apkpure.com/id/get-access-token/com.proit.thaison.getaccesstokenfacebook/download?from=amp_info">👍Download Disini Apknya👈</a>
