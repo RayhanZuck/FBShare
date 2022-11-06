@@ -25,6 +25,8 @@
 </div>
 <br>
 
+## Tampilan Script
+<img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan.jpg"
 ## Pasang Dan Menjalankan
 ```sh
 git clone https://github.com/RayhanZuck/FBShare
