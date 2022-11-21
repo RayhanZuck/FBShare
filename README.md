@@ -35,6 +35,7 @@ git clone https://github.com/RayhanZuck/FBShare
 cd FBShare
 python run.py
 Jalankan Script Simple:
+cd FBShare
 python simple.py
 ```
 ## Metode Login
