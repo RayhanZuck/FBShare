@@ -49,5 +49,5 @@ Via Browser
 Ekstensi Untuk Kiwi Browser:
 Cookiedough
 
-!Via Browser Bisa Ambil Cookie Tanpa Ekstensi
+!Via Browser Ambil Cookie Tanpa Ekstensi
 ```
