@@ -26,15 +26,15 @@
 <br>
 
 ## Tampilan Script
-<img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan.jpg"> </img></a>
+<img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan.jpg"></img></a>
 ## Tampilan Script V.Simple
-<img sec="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan2.jpg">
+<img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan2.jpg"></img<>/a>
 ## Pasang Dan Menjalankan
 ```sh
 git clone https://github.com/RayhanZuck/FBShare
 cd FBShare
 python run.py
-##Jalankan Script Simple:
+Jalankan Script Simple:
 python simple.py
 ```
 ## Metode Login
