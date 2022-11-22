@@ -11,7 +11,7 @@
     <img alt="Update Terakhir" src="https://img.shields.io/badge/Update-22 November-orange"/>
   </a>
    <a href="https://github.com/RayhanZuck">
-    <img alt="Ukuran Repo" src="https://img.shields.io/badge/Ukuran%20Repository-2,30MB-blue"/>
+    <img alt="Ukuran Repo" src="https://img.shields.io/badge/Ukuran%20Repository-2,33MB-blue"/>
   </a>
 <a href="https://www.facebook.com/RayhanBusiness">
     <img alt="Starts" src="https://img.shields.io/badge/facebook:%20Rayhan%20Business-344E86?style=for-the-badge&logo=facebook&logoColor=white"/>
