@@ -28,7 +28,7 @@
 ## Tampilan Script
 <img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan.jpg"></img></a>
 ## Tampilan Script V.Simple
-<img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan_simple.jpg"></img></a>
+<img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/versi_simple.png"></img></a>
 ## Pasang Dan Menjalankan
 ```sh
 git clone https://github.com/RayhanZuck/FBShare
